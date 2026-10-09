@@ -1,0 +1,29 @@
+[
+  {
+    "file": "n-type.png",
+    "title": "File:N-doped Si.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:N-doped_Si.svg",
+    "author": "Guillom (Guillaume Paumier)",
+    "license": "CC BY 2.5",
+    "description": "규소(Si) 격자 안에 인(P) 원자 하나가 들어가 전자 1개(e-)가 남는 n형 반도체",
+    "credit": "위키미디어 공용(Wikimedia Commons), 「N-doped Si.svg」, Guillom (Guillaume Paumier), CC BY 2.5, https://commons.wikimedia.org/wiki/File:N-doped_Si.svg"
+  },
+  {
+    "file": "p-type.png",
+    "title": "File:P-doped Si.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:P-doped_Si.svg",
+    "author": "Guillom (Guillaume Paumier)",
+    "license": "CC BY 2.5",
+    "description": "규소(Si) 격자 안에 붕소(B) 원자 하나가 들어가 전자의 빈자리(양공, 빈 동그라미)가 생기는 p형 반도체",
+    "credit": "위키미디어 공용(Wikimedia Commons), 「P-doped Si.svg」, Guillom (Guillaume Paumier), CC BY 2.5, https://commons.wikimedia.org/wiki/File:P-doped_Si.svg"
+  },
+  {
+    "file": "solar-cell.png",
+    "title": "File:Silicon Solar cell structure and mechanism.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:Silicon_Solar_cell_structure_and_mechanism.svg",
+    "author": "Cyferz (English Wikipedia)",
+    "license": "CC BY 3.0",
+    "description": "실리콘 태양 전지의 단면: 반사 방지막, 앞면 전극(Ag·Pd·Ti), n형 층, p형 층, 뒷면 전극(Aluminum), 들어오는 빛과 전자·양공의 이동",
+    "credit": "위키미디어 공용(Wikimedia Commons), 「Silicon Solar cell structure and mechanism.svg」, Cyferz, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Silicon_Solar_cell_structure_and_mechanism.svg"
+  }
+]
