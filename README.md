@@ -22,9 +22,17 @@ npm run preview    # 빌드 결과 미리보기
 
 센서 연결(Web Bluetooth)은 **크롬(윈도우·크롬북·안드로이드)** 에서만 됩니다. 아이패드·아이폰은 안 됩니다. 배포 주소는 https 여야 합니다(localhost 는 예외).
 
-## Cloudflare 배포 (깃허브 연동)
+## Cloudflare 배포
 
-저장소: `https://github.com/sirlma111216-boop/scion.git`
+**현재 배포 주소: https://scion.sirlma.workers.dev** (Workers, `npx wrangler deploy`로 올림 — 2026-10-09)
+
+로컬에서 다시 배포하려면(wrangler 로그인 상태에서):
+
+```bash
+npm run build && npx wrangler deploy
+```
+
+깃허브 연동으로 자동 배포하려면 아래 둘 중 하나. 저장소: `https://github.com/sirlma111216-boop/scion.git`
 
 **(가) Workers Builds — 권장**
 1. Cloudflare 대시보드 → Workers & Pages → Create → Workers → 「Import a repository」로 이 저장소 연결
